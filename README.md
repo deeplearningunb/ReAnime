@@ -5,13 +5,32 @@ Técnicas de Machine Learning são muito utilizadas para resolver problemas em d
 
 A proposta do ReAnime é que a máquina consiga classificar uma imagem como uma pessoa real ou um desenho.
 
-![](https://www.deviantart.com/onyxsteelgray1213/art/The-Mask-animated-Series-Second-Transformation-gif-820619969)
 
+<img src="https://media.giphy.com/media/26xBBMyZgK6xFJDoc/giphy.gif" width="500" height="500"/>
+
+<br />
+<br />
+<br />
+<br />
 
 ## CNN
 
 As redes neurais convolucionais (CNN) são usadas no reconhecimento de imagens desde a década de 1980. Nos últimos anos, graças ao aumento do poder computacional à quantidade de dados de treinamento disponíveis, as CNNs conseguiram obter desempenho sobre-humano em algumas tarefas visuais complexas. Eles oferecem serviços de pesquisa de imagens, carros autônomos, sistemas automáticos de classificação de vídeo e muito mais. Além disso, as CNNs não se restringem à percepção visual: elas também são bem-sucedidas em outras tarefas, como reconhecimento de voz ou processamento de linguagem natural (PLN).
 
+Essas redes usam uma arquitetura especial que é particularmente adaptada para classificar imagens. O uso dessa arquitetura torna as redes convolucionais rápidas de treinar, então isso nos ajuda a treinar redes profundas de muitas **camadas**, que são muito boas na classificação de imagens. Hoje em dia, redes neurais convolucionais ou alguma variante próxima são usadas na maioria das redes neurais para reconhecimento de imagem.
+<br />
+<br />
+<br />
+
+
+![](https://miro.medium.com/max/500/1*sX6T0Y4aa3ARh7IBS_sdqw.png)
+<br />
+<br />
+
+Com essas redes treinadas, será capaz de destinguir entre classes inseridas de imagens, fazendo a previsão do que seria a saída.
+<br />
+<br />
+![](https://miro.medium.com/max/1200/1*36MELEhgZsPFuzlZvObnxA.gif)
 
 ## Referências
 ESTEVES, Toni. Agrupando conceitos e classificando imagens com Deep Learning. Disponível em: https://medium.com/@estevestoni/agrupando-conceitos-e-classificando-imagens-com-deep-learning-5b2674f99539. Acesso em: 20/11/2020.
