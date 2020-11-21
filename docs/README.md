@@ -1,17 +1,9 @@
 # ReAnime
-
+![logo](./assets/images/cover.gif.GIF)
 ## Sobre o ReAnime
 Técnicas de Machine Learning são muito utilizadas para resolver problemas em diversas áreas de aplicação. Uma das aplicações muito usada hoje em dia, é o reconhecimento e classificação de imagens, em que técnicas de Deep Learning podem apresentar resultados promissores.
 
 A proposta do ReAnime é que a máquina consiga classificar uma imagem como uma pessoa real ou um desenho.
-
-
-<img src="https://media.giphy.com/media/26xBBMyZgK6xFJDoc/giphy.gif" width="500" height="500"/>
-
-<br />
-<br />
-<br />
-<br />
 
 ## CNN
 
@@ -36,7 +28,7 @@ Com essas redes treinadas, será capaz de destinguir entre classes inseridas de 
 ESTEVES, Toni. Agrupando conceitos e classificando imagens com Deep Learning. Disponível em: https://medium.com/@estevestoni/agrupando-conceitos-e-classificando-imagens-com-deep-learning-5b2674f99539. Acesso em: 20/11/2020.
 
 
-## Equipe
+## Equipe 😀
 
 | Nome | Matrícula | GitHub | Email |
 | --- | --- | --- | --- |
