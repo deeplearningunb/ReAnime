@@ -1,1 +1,0 @@
-![logo](./assets/images/cover.gif.GIF)
