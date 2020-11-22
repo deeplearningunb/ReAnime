@@ -4,6 +4,8 @@ O planejamento é um artefato que define a organização inicial do projeto. Nel
 ## Escolha do tema
 Durante a fase do planejamento, ficamos um pouco indecisos e sem muitas opções criativas para escolher como nosso tema. Em uma das nossas reuniões, que foi realizada após a aula que estudamos reconhecimento de imagens, tivemos a ideia de trabalhar com reconhecimento de imagens de desenhos ou de pessoas reais.  
 
+## Metodologia 
+Como nosso grupo é pequeno, optamos por desenvolver a maior parte do projeto juntos, compartilhando a tela e revezando quem produzia de tempos em tempos. Foram distribuídas, apenas algumas pequenas tarefas como: realizar documentação do projeto, buscar datasets, estilizar a wiki e procurar documentação das bibliotecas utilizadas. 
 
 ## Ferramentas
 
@@ -16,7 +18,6 @@ Durante a fase do planejamento, ficamos um pouco indecisos e sem muitas opções
 | [Jupyter Notebook](https://jupyter.org/) | Plataforma para criação do código e realização de testes.|
 | [Visual Studio Code](https://code.visualstudio.com/) | Ferramenta utilizada para criação dos artefatos da documentação. |
 | [Docsify](https://docsify.js.org/#/) | Aplicação para auxiliar a criação da wiki. |
-
 
 ## Históricos de Revisões
 
