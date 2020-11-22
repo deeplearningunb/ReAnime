@@ -19,12 +19,4 @@ Como nosso grupo é pequeno, optamos por desenvolver a maior parte do projeto ju
 | [Visual Studio Code](https://code.visualstudio.com/) | Ferramenta utilizada para criação dos artefatos da documentação. |
 | [Docsify](https://docsify.js.org/#/) | Aplicação para auxiliar a criação da wiki. |
 
-## Históricos de Revisões
-
-|    Data    | Versão |                         Descrição                          |            Autor(es)             |
-| :--------: | :----: | :--------------------------------------------------------: | :------------------------------: |
-| 21/11/2020 |  1.0   |                   Criação do documento.                    | [Ithalo Azevedo](github.com/ithaloazevedo)|
-| 22/11/2020 |  1.0   |           Atualização das ferramentas utilizadas           |          [Ithalo Azevedo](github.com/ithaloazevedo)        |
-| 22/11/2020 |  1.0   |           Adição da metodologia           |          [Ithalo Azevedo](github.com/ithaloazevedo), [Leticia Meneses](https://github.com/mbslet) e [Philipe Serafim](https://github.com/philipeserafim)       |
-
 

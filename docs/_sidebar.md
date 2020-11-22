@@ -1,4 +1,3 @@
 - [Home](/)
-- 
-- **Pré-rastreabilidade**
-  - [Planejamento](planejamento.md)
+- [Planejamento](planejamento.md)
+- [Bibliotecas](bibliotecas.md)
