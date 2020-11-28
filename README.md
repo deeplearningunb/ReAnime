@@ -6,9 +6,19 @@ Técnicas de Machine Learning são muito utilizadas para resolver problemas em d
 A proposta do ReAnime é que a máquina consiga classificar uma imagem como uma pessoa real ou um desenho.
 
 
-<img src="https://media.giphy.com/media/26xBBMyZgK6xFJDoc/giphy.gif" width="500" height="500"/>
+<img src="https://media.giphy.com/media/26xBBMyZgK6xFJDoc/giphy.gif" width="450" height="450"/>
 
 <br />
+<br />
+<br />
+<br />
+
+## Dataset
+
+O dataset usado nesse projeto passou por algumas alterações.
+No primeiro caso fizemos o teste com 25 épocas e 45 mil imagens, o que pesa bastante no precessamento e tempo. Vimos que era possível diminuir e assim foi feito, passou a ser 15 épocas e 20 mil imagens, 18 mil de treino e 2 mil de testes.
+Acesse o (dataset aqui)[].
+
 <br />
 <br />
 <br />
