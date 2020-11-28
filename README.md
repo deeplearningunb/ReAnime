@@ -15,9 +15,8 @@ A proposta do ReAnime é que a máquina consiga classificar uma imagem como uma 
 
 ## Dataset
 
-O dataset usado nesse projeto passou por algumas alterações.
-No primeiro caso fizemos o teste com 25 épocas e 45 mil imagens, o que pesa bastante no precessamento e tempo. Vimos que era possível diminuir e assim foi feito, passou a ser 15 épocas e 20 mil imagens, 18 mil de treino e 2 mil de testes.
-Acesse o [dataset aqui]().
+
+O dataset atual é a junção de dois dataset retirados do Kaggle. O primeiro dataset é composto de rostos de pessoas: [CelebFaces Attributes](https://www.kaggle.com/jessicali9530/celeba-dataset), usamos apenas 20mil das 203mil imagens disponíveis. O segundo dataset é composto de rostos de personagens de animes: [Anime Faces](https://www.kaggle.com/soumikrakshit/anime-faces), usamos cerca de 93% das imagens disponíveis. 
 
 <br />
 <br />
